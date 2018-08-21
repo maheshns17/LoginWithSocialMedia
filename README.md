@@ -1,2 +1,0 @@
-# LoginWithSocialMedia
-Login with Google+
