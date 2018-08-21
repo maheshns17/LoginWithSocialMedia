@@ -2,7 +2,7 @@
 Login with Google+
 
 
-### Login with google:
+### ScreenShoot
 <img src="Images/Capture.PNG" width=200>
 
 
